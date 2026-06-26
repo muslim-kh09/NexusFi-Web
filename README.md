@@ -1,5 +1,7 @@
 # NexusFi Web
 
+🌍 **Live Demo:** [nexusfi-web.vercel.app](https://nexusfi-web.vercel.app)
+
 The official landing page and web presentation for **NexusFi** — a self-contained, 3-tier Micro-ISP and Local Cloud Ecosystem engineered to run natively on rooted Android devices.
 
 ## 🌟 Vision
